@@ -10,10 +10,10 @@ obj/
 *.userosscache
 *.sln.docstates
 *.cursorrules
+DeleteBinObjFolders.bat
 
 # User-specific folders
 Info/
-
 
 # VS Code
 .vscode/
